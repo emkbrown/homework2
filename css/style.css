@@ -27,6 +27,8 @@ p {
     font-size: 24px;
     padding-top: 20px;
     padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 
@@ -69,5 +71,7 @@ footer p {
     text-align: right;
     padding-bottom: 10px;
     padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
